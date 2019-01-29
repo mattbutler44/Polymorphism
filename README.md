@@ -12,4 +12,4 @@ They implement an interface that is common to all classes, even of different obj
 
 Interface "Payable" is implemented by an Invoice and many different types of Employees.
 
-The main focus of this project is the demonstration of polymorphism and inheritance. 
+The main focus of this project is the demonstration of polymorphism and inheritance. Exception handling is also heavily used throughout the project.
