@@ -1,5 +1,8 @@
 # Polymorphism
 
+!Apparently my files are not posted. I will post them when I get home tonight.
+Not sure how that happened.
+
 This program is console or terminal based (i.e. there is no GUI).
 
 Compile the .java files on your computer. In Windows: cd {directory} {enter} javac *.java
